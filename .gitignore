@@ -1,0 +1,22 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Tooling
+.pytest_cache/
+.mypy_cache/
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime logs
+streamlit.log
